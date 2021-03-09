@@ -1,0 +1,20 @@
+body
+{
+    background-color: rgba(137, 137, 137, 0.433);
+    
+}
+form
+{
+    background-color: white;
+    width:75% ;
+    padding: 20%;
+    margin: auto
+}
+.submit
+{
+    width: 80px ;
+    padding: 5px;
+    color: black ;
+    margin: auto;
+    text-align: center;
+}
