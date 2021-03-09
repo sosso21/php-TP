@@ -9,18 +9,18 @@ index
 
    mon mdp sur Openweither
       eliotalois
-      Warzone21@
-      sofianetop21.st@gmail.com
+       W*21@
+      s*******t@gmail.com
 
 
 3732a02ff8cb9808cf1c9724fb704348
 
 */
 
-$curl = curl_init('https://api.openweathermap.org/data/2.5/weather?q=Tirmitine,dz&APPID=3732a02ff8cb9808cf1c9724fb704348&units=metric&lang=fr');
+$curl = curl_init('https://api.openweathermap.org/data/........');
 
 
-//$curl = curl_init('https://samples.openweathermap.org/data/2.5/forecast/daily?id=524901&appid=b1b15e88fa797225412429c1c50c122a1');
+//$curl = curl_init('https://samples.openweathermap.org/data/2.5/.........');
 
  curl_setopt($curl, CURLOPT_RETURNTRANSFER , true );
 $data = curl_exec($curl);
