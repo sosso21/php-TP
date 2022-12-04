@@ -111,7 +111,7 @@ $SeeCmd = $SeeCmd->fetchAll(PDO::FETCH_ASSOC);
     <section id='DoCommande'>
         <h2> Faire Une Commande  </h2>
         <form action="" method="post" id='DoCommande_form'>  
-            <label for="type"> Type de Commande</label> <input type="text" name="type" id="type" placeholder="ex: Ordunateur " requireed  > 
+            <label for="type"> Type de Commande</label> <input type="text" name="type" id="type" placeholder="ex: Ordinateur" requireed  > 
             
             <label for="descr">Description  </label><textarea name="desct" id="descr" cols="60" rows="10" placeholder="ex: marque xxxxx" requireed></textarea>
             <button  class="mt-4 btn btn-outline-primary"> Envoyer </button>
