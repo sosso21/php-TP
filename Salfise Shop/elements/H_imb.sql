@@ -26,8 +26,9 @@ USE `m_s`;
 ----------------------------------------------------------------------------------------------------------------
 */
 
-
+/*
 --- Newsletters historuqque
+*/
 
 CREATE TABLE IF NOT EXISTS newsletter
 (
@@ -46,10 +47,9 @@ CREATE TABLE IF NOT EXISTS user
 	`tel` varchar(13) , 
 	`is_admin` BOOLEAN DEFAULT false,
 	`is_affiliat` smallint  DEFAULT -2,
-	`sub_date` INT  NOT NULL DEFAULT UNIX_TIMESTAMP() , 
+	`sub_date`  INT NOT NULL DEFAULT (UNIX_TIMESTAMP()) , 
 	`password` VARCHAR(255) NOT NULL,
 	UNIQUE ( `email`) ,
-	UNIQUE ( `tel`) ,
 	UNIQUE ( `id`) ,
 	PRIMARY KEY(`id`)
 );
@@ -67,7 +67,7 @@ CREATE TABLE IF NOT EXISTS post
 	`prix` smallint ,
 	`monnais` varchar(15),
 	`disponible` BOOLEAN DEFAULT 1 ,
-	`p_date` INT  NOT NULL DEFAULT UNIX_TIMESTAMP() , 
+	`p_date`  INT NOT NULL DEFAULT (UNIX_TIMESTAMP()) , 
 	UNIQUE ( `slug`) ,
 	PRIMARY KEY(`id`)
 );
@@ -120,7 +120,7 @@ CREATE TABLE IF NOT EXISTS comende
 	`client` INT  NOT NULL ,
 	`type` VARCHAR(255) NOT NULL, 
 	`description` VARCHAR(512) ,
-	`c_date` INT  NOT NULL DEFAULT UNIX_TIMESTAMP() , 
+	`c_date`  INT NOT NULL DEFAULT (UNIX_TIMESTAMP()) , 
 	
 	
 		CONSTRAINT `fk_cmd`
@@ -241,7 +241,7 @@ VALUES
  select * from categorie_post
    left join categorie ON categorie_post.id_categorie = categorie.id
  where categorie_post.id_post = 1 ;
-/* ---*/ 
+ 
 
 /*--- a partir de categorie 1  */ 
 
@@ -301,28 +301,28 @@ VALUES
 ('View/image/post/image3.jpeg',2)
 ; 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -- SHOW TABLE STATUS ;
+*/
 show tables ;
 
